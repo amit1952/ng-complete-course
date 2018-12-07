@@ -1,4 +1,6 @@
-# Untitled
+# ng-complete-course
+
+This follows the Angular 7 course on [udemy.com](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/content)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
